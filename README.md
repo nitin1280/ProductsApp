@@ -47,9 +47,13 @@ The UI concludes with a basic footer at the bottom of the pages.
 
 # Tech Stack
 React
+
 Axios for API requests
+
 React Router for navigation
+
 Redux for state mangements
+
 CSS for styling
 
 
